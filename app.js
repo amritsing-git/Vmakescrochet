@@ -4,11 +4,11 @@
   ============================================
 */
 const BUSINESS = {
-  name: "barber shop",
+  name: " V makes crochet",
   category: "HANDMADE • MADE WITH CARE",
 
-  headline: "Beautiful things, made with intention.",
-  tagline: "Thoughtfully made. Beautifully yours.",
+  headline: "Tiny things made with big patients🧸.",
+  tagline: "Crocheting one loop at a time 🌸.",
   description:
     "Discover thoughtfully made products created to add something special to your everyday.",
 
@@ -20,7 +20,7 @@ const BUSINESS = {
 
   phone: "+91 00000 00000",
   whatsapp: "910000000000",
-  instagram: "https://instagram.com/yourbusiness",
+  instagram: "https://www.instagram.com/vmakescrochet?vrfl=eDFjd2J2dTN4bHI=",
   address: "Delhi, India",
 
   featured: {
