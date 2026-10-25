@@ -10,13 +10,7 @@ const BUSINESS = {
   headline: "Handmade with a little whim.",
   tagline: "Crocheting one loop at a time 🌸.",
   description:
-    "Handmade with a little whim
-
-Custom bracelets made for you
-
-Personalised Cute Handmade
-
-DM to order | India
+    "Handmade with a little whim.",
   about:
     "We create small-batch pieces with attention to detail, thoughtful design and a personal touch. Every order is prepared with care.",
 
