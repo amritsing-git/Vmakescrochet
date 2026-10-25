@@ -4,14 +4,19 @@
   ============================================
 */
 const BUSINESS = {
-  name: " V makes crochet",
+  name: "WristWhim | Handmade Bracelets",
   category: "HANDMADE • MADE WITH CARE",
 
-  headline: "Tiny things made with big patients🧸.",
+  headline: "Handmade with a little whim.",
   tagline: "Crocheting one loop at a time 🌸.",
   description:
-    "Discover thoughtfully made products created to add something special to your everyday.",
+    "Handmade with a little whim
 
+Custom bracelets made for you
+
+Personalised Cute Handmade
+
+DM to order | India
   about:
     "We create small-batch pieces with attention to detail, thoughtful design and a personal touch. Every order is prepared with care.",
 
@@ -20,7 +25,7 @@ const BUSINESS = {
 
   phone: "+91 00000 00000",
   whatsapp: "910000000000",
-  instagram: "https://www.instagram.com/vmakescrochet?vrfl=eDFjd2J2dTN4bHI=",
+  instagram: "https://www.instagram.com/wristwhim.in?cplk=MWxscXNpazdhZ3J1Mg==",
   address: "Delhi, India",
 
   featured: {
